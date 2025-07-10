@@ -1,1 +1,1 @@
-JDA Discord Bot Template
+JDA Discord Bot Blacklister
